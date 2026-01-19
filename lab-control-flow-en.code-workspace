@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../lab-control-flow-en"
+		},
+		{
+			"name": "lab-list-comprehension-en",
+			"path": "../lab-list-comprehension-en"
+		}
+	],
+	"settings": {}
+}
